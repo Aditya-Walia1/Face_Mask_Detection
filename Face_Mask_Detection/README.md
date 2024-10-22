@@ -1,8 +1,6 @@
 # Face-Mask Detection Webapp
 This is a mask detection webapp created using keras and flask.
 
-The app can be visited at https://maskcurr.herokuapp.com/
-
 <h2>Screenshots of the webapp:</h2>
 
 ![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/Capture3.PNG)
