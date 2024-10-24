@@ -3,15 +3,12 @@ This is a mask detection webapp created using keras and flask.
 
 <h2>Screenshots of the webapp:</h2>
 
-![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/Capture3.PNG)
 
-![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/after.jpg)
 
-![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/Capture2.PNG)
 
 <h2>Flowchart</h2>
 
-![alt text](https://github.com/usmanbinkhalid/Face_Mask_Detection/blob/main/mask_dec/Pics/Flowchart_Usman.jpeg)
+
 
 <h2>Steps to run</h2>
  1: You can use the app.py to create a flask web app and launch it.<br>
